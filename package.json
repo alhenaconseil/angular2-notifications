@@ -1,6 +1,10 @@
 {
   "name": "angular2-notifications",
   "version": "0.9.6",
+  "main": "dist/angular2-notifications.umd.js",
+  "module": "dist/angular2-notifications.js",
+  "jsnext:main": "dist/angular2-notifications.js",
+  "typings": "dist/angular2-notifications.d.ts",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
